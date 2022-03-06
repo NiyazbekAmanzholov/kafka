@@ -23,7 +23,7 @@ services:
 
 
 
-
+#docker run --name zookeeper -e ALLOW_ANONYMOUS_LOGIN=yes bitnami/zookeeper:3-debian-10
 
 
 
